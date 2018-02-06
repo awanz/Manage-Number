@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517889860 source:c:\users\awan\documents\my project\c++\numbermanage\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
